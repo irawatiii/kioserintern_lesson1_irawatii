@@ -12,6 +12,6 @@ Untuk menguasai jutsu kolaborasi, maka kita harus bisa menggunakan Git.Jadi sela
 
 Cara membatalkan revisi menggunakan perintah git checkout, git reset, dan git revert.
 
-Git Checkout = Perintah git checkout seperti mesin waktu, kita bisa kembalikan kondisi file proyek seperti waktu yang dituju.
-2, Git Reset = Perintah git reset sering disebut sebagai perintah berbahaya yang dapat menghancurkan catatan sejarah perubahan.
-Git Revert = Perintah ini lebih aman daripada git reset, karena tidak akan menghapus catatan sejarah revisi.
+1. Git Checkout = Perintah git checkout seperti mesin waktu, kita bisa kembalikan kondisi file proyek seperti waktu yang dituju.
+2. Git Reset = Perintah git reset sering disebut sebagai perintah berbahaya yang dapat menghancurkan catatan sejarah perubahan.
+3. Git Revert = Perintah ini lebih aman daripada git reset, karena tidak akan menghapus catatan sejarah revisi.
